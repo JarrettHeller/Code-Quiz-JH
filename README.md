@@ -9,3 +9,5 @@ which it then resets.
 
 It has 5 questions with different amounts of answers to show the knowladge, and has a colored background
 when a question is answered, the correct answer will glow green, and the wrong answers will glow red.
+
+https://jarrettheller.github.io/Code-Quiz-JH/
